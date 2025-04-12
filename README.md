@@ -29,5 +29,6 @@ yarn add -D eslint \
   eslint-plugin-storybook \
   eslint-plugin-testing-library \
   eslint-plugin-unused-imports \
-  globals
+  globals \
+  vite-tsconfig-paths
 ```
